@@ -1,4 +1,4 @@
-# Self-into
+# Self-intro
 ####  Hello there, I'm Suba🙋‍♀️ and i'm new to github😶‍🌫️ I'm a final-year college student from India majoring in Business Studies. Although my major is different, I have a deep interest in coding and designing. I've always had a passion for entering the field of Data analyst, and I'm currently working on improving my skills to meet the requirements for a role in Data Analytics and Science.💻📊
 
 
